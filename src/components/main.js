@@ -1,6 +1,6 @@
 const Main = () => {
   return (
-    <div className="flex items-center justify-between  mx-8 ">
+    <div className="flex items-center mt-20 justify-between  mx-8 ">
       <div>
         <div className="bg-slate-900 w-[250px] text-center p-2 rounded-full text-blue-500">
           Welcome to my portfolio
