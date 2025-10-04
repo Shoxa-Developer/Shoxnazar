@@ -31,7 +31,10 @@ const Main = () => {
         </div>
       </div>
       <div className="mt-20">
-        <img src="/logo-2.jpg" alt="Hero Main Rasm" />
+        <img
+          src="https://st.depositphotos.com/1003924/2502/i/450/depositphotos_25021863-stock-photo-html-web-code.jpg"
+          alt="Hero Main Rasm"
+        />
       </div>
     </div>
   );
