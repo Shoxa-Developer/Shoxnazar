@@ -40,7 +40,7 @@ const Projects = () => {
           <div className="p-5">
             <h1>umidjon-svg.site</h1>
             <p>
-              Umidjon SVG is a free and open-source SVG icon library designed
+              Shoxnazar SVG is a free and open-source SVG icon library designed
               for designers and frontend developers.
             </p>
           </div>

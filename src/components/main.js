@@ -8,7 +8,7 @@ const Main = () => {
         <div className="text-[60px] mt-3 flex-col flex font-bold  gap-3">
           <div className="flex gap-3 items-center leading-none">
             <h1>I'm</h1>
-            <span className="text-blue-600">Umidjon,</span>
+            <span className="text-blue-600">Shoxnazar,</span>
           </div>
           <div className="text-[60px] leading-none    flex font-bold  gap-3">
             <h1>Creative Developer</h1>
@@ -31,7 +31,7 @@ const Main = () => {
         </div>
       </div>
       <div className="mt-20">
-        <img src="/image.png" alt="Hero Main Rasm" />
+        <img src="/logo-2.jpg" alt="Hero Main Rasm" />
       </div>
     </div>
   );
